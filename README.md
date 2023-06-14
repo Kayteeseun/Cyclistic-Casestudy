@@ -54,11 +54,17 @@ Here is where I process the preparation of raw data so that it is suitable for f
 Key steps; Link to the Data cleaning is here.
 
 · Combining of each month data to one year table and removed irrelevant data.    
-· Removed the duplicates data,
+
+· Removed the duplicates data
+
 · Checked out any empty spaces in the data
+
 · Removed incomplete values, i deleted the null values in start and end station name.
+
 · Created new columns to carry out analysis
+
 · Checked where ride_id values is not equal to 16 characters.
+
 The link to the Data cleaning is here.
 
 ANALYZE AND SHARE;
