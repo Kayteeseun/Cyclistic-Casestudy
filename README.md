@@ -68,38 +68,66 @@ As said earlier Cyclistic has 2 different member, I did calculation to know the 
 Total rider of user type
 
 Annual member has the highest rides correlated to casual riders
+
 Annual member has about 2,611,153 riders of 59.76% while casual riders have 1,758,144 of 40.28% riders. Which means annual member rents the bike to commute to work daily.
 
+![2023-06-12 (9)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/134a1beb-99ea-4d9d-b529-072b1a46a0df)
+
 Rideable bikes and user type
+
 Annual member and casual member used bikes differently, annual member mostly used the classic bike and electric bike but surprisingly annual member didn't used the docked bike at all, casual riders used the 3 bikes but only few casual riders used the docked ride.
+
+![2023-06-12 (11)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/56606d57-5911-4ab0-ba2b-d70a627cbfb8)
 
 
 Total rideable bikes
+
 Classic bikes have the top users out of the 3 bikes follow by electric bikes. And docked has the lower rides of 4%.
+
+![2023-06-12 (12)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/fee1a139-e8e6-4ff6-aa2e-3d33a39e4386)
 
 Day of week rideable bikes
 Saturday is the top and the busiest day out of the 7 days in week followed by Thursday and most users used the classic bikes during weekdays and weekend.
 
+
+![2023-06-12 (13)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/87c94f3d-fe7a-4294-b902-d42c55b008e0)
+
 Day_of_week Avg duration
 The average duration of rides is -17 minutes. Weekends have the highest number of ride-length, while the weekdays have lesser ride length duration.
+
+![2023-06-12 (19)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/63065412-ef21-4655-8145-7de2b5dcb2ae)
 
 
 
 Time of the day
 Obviously, this means that member riders use the bike rentals to work in the day while the casual riders ride for leisure purposes and not for commuting.
 
+![2023-06-12 (14)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/ac96c3e2-92e6-4170-96ad-92076df9f9af)
+
 
 Total bikes by season
 Both users mostly ride during the summer season, which we all know the climate shift more to hotter temperature, and winter has the lowest riders because riding in the cold can affect the bikes as much as the person riding it. In cold condition, tire may be also sleet, snow, ice or even new cracks or holes in the road which is not safe.
+
+![2023-06-12 (22)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/ad0247dc-4708-4564-857b-b8ece28402dd)
 
 
 Ride by month
 June, July and August has the most riders which is defined as summer season, means riding in summer is great with less rainfall and less slippery road. While December, February and January has the lowest riders that's is winter period, it is no doubt the best time to ride.
 
 
+![2023-06-12 (16)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/3a1c7a6e-ae1a-43b5-9481-83f3eaaf2d9c)
+
+
 Start_station_name and End_station_name
 
 I did calculation on stations park to know the most park each users used, casual riders mostly rent their bike and drop it at the same station while annual riders used theirs differently , probably because they used their bike commuting, so it is possible they rent the bike any park and drop it at any station close to their work and unlike.
+
+
+
+
+POWERBI REPORT
+ 
+ ![2023-06-12 (21)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/02dba6d6-5bb5-4284-9573-8ffe05271aff)
 
 ACT PHASE
 
