@@ -123,6 +123,8 @@ Start_station_name and End_station_name
 I did calculation on stations park to know the most park each users used, casual riders mostly rent their bike and drop it at the same station while annual riders used theirs differently , probably because they used their bike commuting, so it is possible they rent the bike any park and drop it at any station close to their work and unlike.
 
 
+![2023-06-12 (3)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/fe95ca54-f4c5-421f-acff-64ad227eca44)
+![2023-06-12 (6)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/90acb48b-16f7-4db4-a1d6-a782d9fc3b93)
 
 
 POWERBI REPORT
