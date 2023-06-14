@@ -1,4 +1,4 @@
-Cyclitic Bike-share Analysis
+     Cyclitic bike-share analysis
 
 ![2023-06-13](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/9dd9f17b-d5ea-4f39-a820-3fa9e381b4a3)
 
@@ -38,8 +38,36 @@ Business Task;
 PREPARE
 
 This is public data that I used to explore how different customer types are using Cyclitic bikes.
-Download  the  previous  12  months of  Cyclistic  trip  data here. 
-The data has been made available by Motivate International Inc. under  this license.)
+Download  the  previous  12  months of  Cyclistic  trip  data here. https://divvy-tripdata.s3.amazonaws.com/index.html
+The data has been made available by Motivate International Inc. under  this [license](https://ride.divvybikes.com/data-license-agreement).)
+
+The tables contain the following columns:
+
+ride_id : unique id of each ride trip
+
+rideable_type : type of bicycle used: classic, docked or electric
+
+started_at : date and time of the start of the trip
+
+ended_at : date and time of the end of the trip
+
+start_station_name : start station name
+
+start_station_id : start station id
+
+end_station_name : end station name
+
+end_station_id : end station id
+
+start_lat : latitude of the starting point
+
+start_lng : longitude of the starting point
+
+end_lat : latitude of the ending point
+
+end_lng : longitude of the ending point
+
+member_casual : type of user, either casual or member
 
 
 Bias or credibility in this data
