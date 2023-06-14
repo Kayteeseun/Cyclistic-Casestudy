@@ -4,7 +4,7 @@
 
 INTRODUCTION
 
-Welcome to the Cyclitic bike-share analysis case study! This case study is part of my course challenge in Google Data Analytics Certificate. In this capstone project, I performed many real-world tasks of a junior data analyst. In order to answer the key business questions, I followed the steps of the data analysis process I learnt on coursera: ask, prepare, process, analyze, share, and act. Using Microsoft SQL server and PowerBI to solve the business tasks.
+Welcome to the Cyclitic bike-share analysis case study! This case study is part of my course capstone challenge in Google Data Analytics Certificate. In this capstone project, I performed many real-world tasks of a junior data analyst. In order to answer the key business questions, I followed the steps of the data analysis process I learnt on coursera: ask, prepare, process, analyze, share, and act. Using Microsoft SQL server and PowerBI to solve the business tasks.
 
 About the company
 
