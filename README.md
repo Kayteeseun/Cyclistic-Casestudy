@@ -37,7 +37,7 @@ Business Task;
 
 PREPARE
 
-This is public data that I used to explore how different customer types are using Cyclistic bikes. Download the previous 12 months of Cyclistic trip data here. The data has been made available by Motivate International Inc. under this license.)
+This is public data that I used to explore how different customer types are using Cyclistic bikes. Download the previous 12 months of Cyclistic trip data here divvy_tripdata.. The data has been made available by Motivate International Inc. under this license.)
 
 Bias or credibility in this data
 
