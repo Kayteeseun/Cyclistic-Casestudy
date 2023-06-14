@@ -83,6 +83,9 @@ Data Preparation for Analysis
 Here is where I process the preparation of raw data so that it is suitable for further processing and analysis. The data consist of 12csv files, I used 10 and added 4 new columns to carry my analysis.
 
 Key steps; 
+The data cleaning can be found on here https://kayteeseun.github.io/Cyclistic-Casestudy/ and this is a sample below;
+
+![2023-06-12 (17)](https://github.com/Kayteeseun/Cyclistic-Casestudy/assets/132163855/16f50604-3a0a-46bd-be4a-797dcdb90235)
 
 · Combining of each month data to one year table and removed irrelevant data.    
 
@@ -100,7 +103,9 @@ The link to the Data cleaning is here.
 
 ANALYZE AND SHARE;
 
-Now that the data is cleaned and documented, I started doing analysis to make sense out of the data to solve problems and support the business goals. The total riders I got after the cleaning is 4,369,297. The query of link can be found here 
+Now that the data is cleaned and documented, I started doing analysis to make sense out of the data to solve problems and support the business goals. The total riders I got after the cleaning is 4,369,297. The query of link can be found here https://kayteeseun.github.io/Cyclistic-Casestudy/ and this is a sample below;
+
+![2023-06-12 (18)](https://github.com/Kayteeseun/Cyclistic-Casestudy/assets/132163855/6a2bb5c5-6f0f-47f5-b94c-8b542efd9493)
 
 
 As said earlier Cyclistic has 2 different member, I did calculation to know the which customers has the highest riders.
