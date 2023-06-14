@@ -1,4 +1,6 @@
-Cyclistic bike-share analysis
+Cyclitic bike-share analysis
+
+![2023-06-12 (20)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/b40a64c1-3896-483c-b3ef-ffcd1e16ff42)
 
 INTRODUCTION
 
@@ -9,7 +11,7 @@ About the company
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are retracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 Until now, Cyclitis's marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred of as casual riders. Customers who purchase annual memberships are Cyclitic members.
 
-Characters and teams
+Characters and teams;
 
 ● Cyclitic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclitic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can't use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclitic users are more likely to ride for leisure, but about 30% use them to commute to work each day.
 
@@ -61,7 +63,8 @@ The link to the Data cleaning is here.
 
 ANALYZE AND SHARE;
 
-Now that the data is cleaned and documented, I started doing analysis to make sense out of the data to solve problems and support the business goals. The total riders I got after the cleaning is 4,369,297.
+Now that the data is cleaned and documented, I started doing analysis to make sense out of the data to solve problems and support the business goals. The total riders I got after the cleaning is 4,369,297. The query of link can be found here 
+
 
 As said earlier Cyclistic has 2 different member, I did calculation to know the which customers has the highest riders.
 
