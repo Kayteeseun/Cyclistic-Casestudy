@@ -1,6 +1,6 @@
 Cyclitic Bike-share Analysis
 
-![2023-06-12 (20)](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/b40a64c1-3896-483c-b3ef-ffcd1e16ff42)
+![2023-06-13](https://github.com/Kayteeseun/cyclistic-Casestudy/assets/132163855/9dd9f17b-d5ea-4f39-a820-3fa9e381b4a3)
 
 INTRODUCTION
 
